@@ -1,4 +1,4 @@
-<!-- TITLE: Tech Learnings -->
+<!-- TITLE: Development -->
 <!-- SUBTITLE: A quick summary of Tech Learnings -->
 
-# Tech Learnings
+# Development
